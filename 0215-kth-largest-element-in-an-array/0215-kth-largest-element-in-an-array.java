@@ -4,9 +4,9 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             pq.add(nums[i]);
             if (pq.size() > k) {
-                pq.poll();
+                pq.poll(); // remove smallest element
             }
         }
-        return pq.peek();
+        return pq.peek(); // return the biggest element
     }
 }
