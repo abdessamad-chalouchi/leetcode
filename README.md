@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2048-build-array-from-permutation](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Greedy
 |  |
