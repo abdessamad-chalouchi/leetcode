@@ -14,20 +14,20 @@ class Solution {
             }
             if (r == 2) {
                 tmp = 1;
-                result.append("0");
+                result.insert(0, "0");
             } else if (r == 3) {
                 tmp = 1;
-                result.append("1");
+                result.insert(0, "1");
             } else {
                 tmp = 0;
-                result.append(r);
+                result.insert(0, r);
             }
             j--;
             i--;
         }
         if (tmp != 0) {
-            result.append(tmp);
+            result.insert(0, tmp);
         }
-        return result.reverse().toString();
+        return result.toString();
     }
 }
