@@ -8,7 +8,7 @@ class Solution {
         }
         int tmp = 0;
         for (int i = a.length() - 1; i >= 0; i--) {
-            int r = Integer.parseInt(a.charAt(i) + "") + Integer.parseInt(b.charAt(i) + "") + tmp;
+            int r = (a.charAt(i) - '0') + (b.charAt(i) - '0') + tmp;
             if (r == 2) {
                 tmp = 1;
                 result.append("0");
