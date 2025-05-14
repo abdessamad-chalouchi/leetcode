@@ -1,14 +1,17 @@
 class Solution {
     public String addBinary(String a, String b) {
         StringBuilder result = new StringBuilder();
-        if (a.length() > b.length()) {
-            b = "0".repeat(a.length() - b.length()) + b;
-        } else {
-            a = "0".repeat(b.length() - a.length()) + a;
-        }
         int tmp = 0;
-        for (int i = a.length() - 1; i >= 0; i--) {
-            int r = (a.charAt(i) - '0') + (b.charAt(i) - '0') + tmp;
+        int i = a.length() - 1, j = b.length() - 1;
+        while (i >= 0 || j >= 0) {
+            int r = 0;
+            if (i < 0) {
+                r = (b.charAt(j) - '0') + tmp;
+            } else if (j < 0) {
+                r = (a.charAt(i) - '0') + tmp;
+            } else {
+                r = (a.charAt(i) - '0') + (b.charAt(j) - '0') + tmp;
+            }
             if (r == 2) {
                 tmp = 1;
                 result.append("0");
@@ -19,6 +22,8 @@ class Solution {
                 tmp = 0;
                 result.append(r);
             }
+            j--;
+            i--;
         }
         if (tmp != 0) {
             result.append(tmp);
