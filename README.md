@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -68,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
