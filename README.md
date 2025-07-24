@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
