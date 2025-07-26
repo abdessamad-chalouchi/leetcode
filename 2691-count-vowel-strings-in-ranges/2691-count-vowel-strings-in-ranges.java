@@ -1,5 +1,8 @@
 import java.util.regex.Pattern;
 class Solution {
+    public boolean isVowel(char c){
+        return "aeiou".indexOf(c) != -1;
+    }
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n = queries.length;
         int[] res = new int[n];
@@ -8,10 +11,8 @@ class Solution {
         Pattern p1 = Pattern.compile("^[aeiou]");
         int sum = 0;
         for (int i = 0; i < words.length; i++) {
-            if (words[i].length() > 1 && p.matcher(words[i]).find())
-                sum += 1;
-            if (words[i].length() <= 1 && p1.matcher(words[i]).find())
-                sum += 1;
+            if (isVowel(words[i].charAt(0)) && isVowel(words[i].charAt(words[i].length() - 1)))
+                sum++;
             r[i] = sum;
         }
         for (int i = 0; i < queries.length; i++) {
