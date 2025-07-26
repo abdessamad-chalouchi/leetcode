@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
