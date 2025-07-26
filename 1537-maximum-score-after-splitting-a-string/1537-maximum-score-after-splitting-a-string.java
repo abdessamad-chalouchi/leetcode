@@ -3,8 +3,8 @@ class Solution {
         int sum = 0;
         int leftZone = 0;
         int rightZone = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '1') {
+        for (char c : s.toCharArray()) {
+            if (c == '1') {
                 rightZone++;
             }
         }
