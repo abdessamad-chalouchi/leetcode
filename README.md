@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2048-build-array-from-permutation](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3221-find-the-peaks](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3221-find-the-peaks) |
 ## Greedy
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
