@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
