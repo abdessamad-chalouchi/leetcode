@@ -17,7 +17,7 @@ class Solution {
             if(v > 0){
                 gcd = gcd(gcd, v);
             }
-            if (gcd == 1) return false;
+            // if (gcd == 1) return false;
         }
         return gcd > 1;
     }
