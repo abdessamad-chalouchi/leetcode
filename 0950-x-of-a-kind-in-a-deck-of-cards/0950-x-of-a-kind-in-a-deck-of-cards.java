@@ -7,10 +7,7 @@ class Solution {
         for (int i = 0; i < deck.length; i++) {
             m.put(deck[i], m.getOrDefault(deck[i], 0) + 1);
         }
-        // if (deck.length < 1 || m.get(deck[0]) <= 1) {
-        //     return false;
-        // }
-        int gcd = 0;
+        int gcd = m.values().iterator().next();
         for (int v : m.values()) {
             gcd = gcd(gcd, v);
         }
