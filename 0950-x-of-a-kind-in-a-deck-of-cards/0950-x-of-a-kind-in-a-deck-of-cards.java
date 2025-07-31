@@ -13,10 +13,10 @@ class Solution {
             freq[card]++;
         }
         int gcd = 0;
-        for (int v : freq) {
-            if(v > 0){
-                gcd = gcd(gcd, v);
-            }
+        for (int card : deck) {
+            // if(v > 0){
+            gcd = gcd(gcd, freq[card]);
+            // }
             // if (gcd == 1) return false;
         }
         return gcd > 1;
