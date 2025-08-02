@@ -9,7 +9,6 @@ class Solution {
             maxDiff = Math.max(maxDiff, (long)(prefixMax - nums[k]));
             prefixMax = Math.max(prefixMax, nums[k]);
         }
-        System.out.println(maxDiff);
         return maxValue;
     }
 }
