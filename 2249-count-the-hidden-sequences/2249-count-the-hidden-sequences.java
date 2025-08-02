@@ -9,10 +9,7 @@ class Solution {
         }
         maxRange = upper - maxRange;
         minRange = lower - minRange;
-        int result = (int)(maxRange - minRange)+1;
-        // System.out.println(result);
-        // System.out.println(minRange);
-        // System.out.println(maxRange);
-        return result > 0 ? result : 0;
+        int result = Math.max((int)(maxRange - minRange)+1, 0);
+        return result;
     }
 }
