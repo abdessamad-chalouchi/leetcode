@@ -9,7 +9,7 @@ class Solution {
         }
         maxRange = upper - maxRange;
         minRange = lower - minRange;
-        tmp = Math.max((int)(maxRange - minRange)+1, 0);
-        return (int)tmp;
+        int result = Math.max((int)(maxRange - minRange)+1, 0);
+        return result;
     }
 }
