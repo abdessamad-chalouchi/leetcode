@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2048-build-array-from-permutation](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3221-find-the-peaks](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3221-find-the-peaks) |
 ## Greedy
