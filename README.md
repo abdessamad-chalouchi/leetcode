@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Heap (Priority Queue)
 |  |
