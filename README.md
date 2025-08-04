@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2048-build-array-from-permutation](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2249-count-the-hidden-sequences](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/abdessamad-chalouchi/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
