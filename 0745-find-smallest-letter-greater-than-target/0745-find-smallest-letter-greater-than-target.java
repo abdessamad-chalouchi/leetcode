@@ -1,7 +1,7 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        int targetI = target, start = 0, end = letters.length-1;
-        int  med;
+        int start = 0, end = letters.length-1;
+        int med;
         while(start < end){
             med = start + (end - start) / 2;
             if(letters[med]> target) end = med;
