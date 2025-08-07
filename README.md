@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0792-binary-search) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
