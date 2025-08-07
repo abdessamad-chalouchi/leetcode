@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0135-candy) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0792-binary-search) |
