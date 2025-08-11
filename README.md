@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0792-binary-search) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## String
