@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
