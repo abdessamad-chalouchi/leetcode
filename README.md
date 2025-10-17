@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0476-number-complement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
