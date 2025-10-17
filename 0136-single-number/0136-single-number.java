@@ -6,7 +6,6 @@ class Solution {
 // = 4
     public int singleNumber(int[] nums) {
         int r = 0;
-        Set<Integer> s = new HashSet<>();
         for (int n : nums){
             r ^= n;
         }
