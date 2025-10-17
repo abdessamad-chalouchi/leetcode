@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
