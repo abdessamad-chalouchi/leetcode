@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0125-valid-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
