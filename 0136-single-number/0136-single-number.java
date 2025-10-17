@@ -1,13 +1,15 @@
 class Solution {
+
+//     4 ^ 1 ^ 2 ^ 1 ^ 2
+// = (1 ^ 1) ^ (2 ^ 2) ^ 4
+// = 0 ^ 0 ^ 4
+// = 4
     public int singleNumber(int[] nums) {
+        int r = 0;
         Set<Integer> s = new HashSet<>();
         for (int n : nums){
-            if(s.contains(n)){
-                s.remove(n);
-            }else{
-                s.add(n);
-            }
+            r ^= n;
         }
-        return s.iterator().next();
+        return r;
     }
 }
