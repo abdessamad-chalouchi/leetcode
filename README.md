@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
