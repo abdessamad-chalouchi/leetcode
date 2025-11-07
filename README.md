@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1464-reduce-array-size-to-the-half](https://github.com/abdessamad-chalouchi/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -107,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -125,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/abdessamad-chalouchi/leetcode/tree/master/0476-number-complement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdessamad-chalouchi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
